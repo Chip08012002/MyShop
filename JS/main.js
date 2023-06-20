@@ -10,42 +10,42 @@ const products = {
       {
         img: 'img/product1.jpg',
         title: 'AEROREDY SHIRT',
-        price: '$25',
+        price: '$28.4',
       },
       {
         img: 'img/product2.jpg',
         title: 'WIRELESS EARBUDS',
-        price: '$25',
+        price: '37.5',
       },
       {
         img: 'img/product3.jpg',
         title: 'HOODED PARKA',
-        price: '$25',
+        price: '$24',
       },
       {
         img: 'img/product4.jpg',
         title: 'STAW METAL BOTTLE',
-        price: '$25',
+        price: '$14.98',
       },
       {
         img: 'img/product5.jpg',
         title: 'METAL SUNGLASSES',
-        price: '$25',
+        price: '$12.56',
       },
       {
         img: 'img/product6.jpg',
         title: 'BACK HAT',
-        price: '$25',
+        price: '$5.8',
       },
       {
         img: 'img/product7.jpg',
         title: 'BACKPACK',
-        price: '$25',
+        price: '$13.5',
       },
       {
         img: 'img/product8.jpg',
         title: 'ULTRABOOST 22',
-        price: '$25',
+        price: '$45.34',
       },
     ],
   };
