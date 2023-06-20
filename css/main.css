@@ -83,7 +83,7 @@ header {
 }
 .cart.active {
     right: 0;
-    width: 480px;
+    width: 360px;
 }
 .cart-title {
 text-align: center;
